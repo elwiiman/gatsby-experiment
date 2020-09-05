@@ -49,7 +49,6 @@ const Layout = props => {
       </Helmet>
       <Header />
       {props.children}
-      <h1>Desde Layout</h1>
     </>
   )
 }
